@@ -28,3 +28,5 @@ print(data_atual)
 
 DiasDaSemana <- factor(c("Segunda", "Terca", "Quarta", "Quinta", "Sexta"), levels = c("Segunda", "Terca", "Quarta", "Quinta", "Sexta"))
 print(DiasDaSemana[3])
+
+TRUE | FALSE
